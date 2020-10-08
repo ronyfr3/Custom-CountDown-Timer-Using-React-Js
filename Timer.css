@@ -1,0 +1,23 @@
+.timeTable{
+    border: 1px solid #44A08D;
+    margin: 1px;
+    background: #44A08D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #093637, #44A08D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #093637, #44A08D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+    font-weight:bold;
+    font-size:13px;
+    padding: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 50px;
+    height: 100%;
+}
+.flex{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
